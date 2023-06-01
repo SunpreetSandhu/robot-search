@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 import Card from "./Card";
+import CardList from "./CardList";
 import "tachyons";
 import { robots } from "./robots";
 
